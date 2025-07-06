@@ -94,6 +94,3 @@ Create a `.env` file to store your credentials:
 - Run `npm run dev` to start the admin panel  
 - Open `http://localhost:5174` (or as shown in console) in your browser  
 
----
-
-## 🌍 How It Looks
